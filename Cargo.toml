@@ -1,0 +1,11 @@
+[package]
+name = "show-wallpaper-file"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+showfile = "0.1.1"
+winreg = "0.52.0"
+
+[build-dependencies]
+winres = "0.1.12"
